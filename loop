@@ -1,0 +1,8 @@
+include <stdio.h>
+int main ()
+
+for (x=0; x<4; 1++)
+{
+  printf ("code");
+}
+return 0;
