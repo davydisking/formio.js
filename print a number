@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <cs50.h>
+
+int main (void)
+{
+  get string = get_string("what's a? ")
+  get string = get_string("what's b? ")
+  if (a<b)
+  {
+    printf("a is greater than b");
+  {
+  else 
+  {
+    printf("a is less than b");
+  }
